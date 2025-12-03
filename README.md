@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0086-partition-list) |
+| [0125-valid-palindrome](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0202-happy-number) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0224-basic-calculator) |
