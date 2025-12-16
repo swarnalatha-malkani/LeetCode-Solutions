@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0392-is-subsequence) |
+| [0763-partition-labels](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0763-partition-labels) |
 | [0874-backspace-string-compare](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0874-backspace-string-compare) |
 | [2128-reverse-prefix-of-word](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/2128-reverse-prefix-of-word) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0392-is-subsequence) |
+| [0763-partition-labels](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0763-partition-labels) |
 | [0874-backspace-string-compare](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0874-backspace-string-compare) |
 | [1078-remove-outermost-parentheses](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0389-find-the-difference) |
+| [0763-partition-labels](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0763-partition-labels) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2406-decode-the-message](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/2406-decode-the-message) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0763-partition-labels](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0763-partition-labels) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1095-two-city-scheduling](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/1095-two-city-scheduling) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
