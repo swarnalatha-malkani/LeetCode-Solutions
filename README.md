@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0120-triangle) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0204-count-primes) |
@@ -421,4 +423,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
