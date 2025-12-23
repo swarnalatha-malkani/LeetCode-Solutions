@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1397-search-suggestions-system](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/1397-search-suggestions-system) |
+| [1668-maximum-repeating-substring](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/1668-maximum-repeating-substring) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2128-reverse-prefix-of-word](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/2128-reverse-prefix-of-word) |
 | [2406-decode-the-message](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/2406-decode-the-message) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0804-rotated-digits](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0804-rotated-digits) |
+| [1668-maximum-repeating-substring](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/1668-maximum-repeating-substring) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Database
 |  |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1668-maximum-repeating-substring](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/1668-maximum-repeating-substring) |
 ## Combinatorics
 |  |
 | ------- |
