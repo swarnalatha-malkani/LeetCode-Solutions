@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0763-partition-labels) |
 | [0874-backspace-string-compare](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0874-backspace-string-compare) |
 | [1078-remove-outermost-parentheses](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/1078-remove-outermost-parentheses) |
+| [1143-longest-common-subsequence](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1397-search-suggestions-system](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/1397-search-suggestions-system) |
 | [1668-maximum-repeating-substring](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/1668-maximum-repeating-substring) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0804-rotated-digits](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0804-rotated-digits) |
+| [1143-longest-common-subsequence](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1668-maximum-repeating-substring](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/1668-maximum-repeating-substring) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Database
