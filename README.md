@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0120-triangle) |
