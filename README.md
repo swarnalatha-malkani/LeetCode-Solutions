@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1397-search-suggestions-system](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/1397-search-suggestions-system) |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0463-island-perimeter](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/0463-island-perimeter) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2737-row-with-maximum-ones](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/2737-row-with-maximum-ones) |
 | [3330-modify-the-matrix](https://github.com/swarnalatha-coder/LeetCode-Solutions/tree/master/3330-modify-the-matrix) |
